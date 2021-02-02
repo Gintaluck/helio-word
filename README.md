@@ -1,1 +1,2 @@
 # helio-word
+bandau pakeitimus
